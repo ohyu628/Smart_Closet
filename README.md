@@ -14,3 +14,5 @@
 # 모델 설계서
 # [WBS](https://docs.google.com/spreadsheets/d/1FakvPad7NTO7V1t1Nr_8PB-BNMYLDHi1/edit#gid=1543558811)
 # 주간 회의 기록
+
+3

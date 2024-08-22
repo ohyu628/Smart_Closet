@@ -51,6 +51,8 @@
 ## [WBS](https://docs.google.com/spreadsheets/d/1FakvPad7NTO7V1t1Nr_8PB-BNMYLDHi1/edit#gid=1543558811)
 ## 데이터 파이프라인
 ![파이프라인](/img/데이터파이프라인.png)
+## 전체적인 아키텍처
+![아키텍처](/img/아키텍처.png)
 ### [이슈링크 (1)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/4)
 ### [이슈링크 (2)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/5)
 ## 데이터 모니터링
@@ -65,8 +67,7 @@
 ![lambda](/img/ppt_-_predict-test%20(1).gif)
 * endpoint url test (성공)
 ![lambda](/img/ppt_endpoint-url-test.gif)
-## 전체적인 아키텍처
-![아키텍처](/img/아키텍처.png)
+
 
 
 

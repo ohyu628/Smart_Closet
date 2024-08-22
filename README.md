@@ -50,7 +50,6 @@
 ## 요구분석 명세서
 * [링크](https://docs.google.com/document/d/1GnTlrJgWTk3o4aaLqI1ZXnLC5DrBan0ntmjrJnWubdo/edit#heading=h.xwas7dkx0kjw)
 ## WBS
-![wbs](/img/wbs.png)
 ## 데이터 파이프라인
 ![파이프라인](/img/데이터파이프라인.png)
 ### [이슈링크 (1)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/4)

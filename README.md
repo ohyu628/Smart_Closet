@@ -1,7 +1,10 @@
-# 오늘모입지??
+## 오늘모입지??
 > Encore Dataengineering 28기 부트캠프 final project
-
-# Team
+> 
+## 전체 프로젝트 일정
+* 프로젝트 일정 : 2024.02.19 ~ 2024.03.22
+  
+## Team
 |지민철|오유빈|최재웅|정모은|김수연|김수아|
 |-----|-----|-----|-----|-----|-----|
 |데이터 엔지니어(팀장)|데이터 엔지니어|데이터 분석|모델|모델|백엔드|
@@ -30,9 +33,6 @@
 <!-- <div align=center> -->
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <!-- </div> -->
-
-# 전체 프로젝트 일정
-* 프로젝트 일정 : 2024.02.19 ~ 2024.03.22
 
 # 목차
 * [프로젝트 개요](##프로젝트-개요)

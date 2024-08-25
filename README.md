@@ -11,12 +11,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/whatevereyewant"><img src="https://avatars.githubusercontent.com/u/100561170?v=4" width="100px;" alt=""/><br /><sub><b>김수아</b></sub></a><br /><sub><b>백엔드</b></sub><br /></td>
-      <td align="center"><a href="https://github.com/suddy78"><img src="https://avatars.githubusercontent.com/u/145851524?v=4" width="100px;" alt=""/><br /><sub><b>김수연</b></sub></a><br /><sub><b>모델</b></sub><br /></td>
-      <td align="center"><a href="https://github.com/jmeagnes"><img src="https://avatars.githubusercontent.com/u/72812330?v=4" width="100px;" alt=""/><br /><sub><b>정모은</b></sub></a><br /><sub><b>모델</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/whatevereyewant"><img src="https://avatars.githubusercontent.com/u/145940008?v=4" width="100px;" alt=""/><br /><sub><b>김수아</b></sub></a><br /><sub><b>백엔드</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/suddy78"><img src="https://avatars.githubusercontent.com/u/113496210?v=4" width="100px;" alt=""/><br /><sub><b>김수연</b></sub></a><br /><sub><b>모델</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/jmeagnes"><img src="https://avatars.githubusercontent.com/u/151423959?v=4" width="100px;" alt=""/><br /><sub><b>정모은</b></sub></a><br /><sub><b>모델</b></sub><br /></td>
       <td align="center"><a href="https://github.com/jiminchur"><img src="https://avatars.githubusercontent.com/u/145955453?v=4" width="100px;" alt=""/><br /><sub><b>지민철</b></sub></a><br /><sub><b>데이터엔지니어(팀장)</b></sub><br /></td>
       <td align="center"><a href="https://github.com/ohyu628"><img src="https://avatars.githubusercontent.com/u/145783010?v=4" width="100px;" alt=""/><br /><sub><b>오유빈</b></sub></a><br /><sub><b>데이터엔지니어</b></sub><br /></td>
-      <td align="center"><a href="https://github.com/jaechoi97"><img src="https://avatars.githubusercontent.com/u/67898022?v=4" width="100px;" alt=""/><br /><sub><b>최재웅</b></sub></a><br /><sub><b>데이터분석</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/jaechoi97"><img src="https://avatars.githubusercontent.com/u/145918829?v=4" width="100px;" alt=""/><br /><sub><b>최재웅</b></sub></a><br /><sub><b>데이터분석</b></sub><br /></td>
     </tr>
   </tbody>
 </table>

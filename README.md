@@ -1,9 +1,7 @@
-# 👔오늘모입지?
-> Encore Dataengineering 28기 부트캠프 final project
-> 
-## 전체 프로젝트 일정
-* 프로젝트 일정 : 2024.02.19 ~ 2024.03.22
-  
+# 🧣 오늘모입지
+> 오늘모입지'는 옷장에 방치되어 있는 옷들을 의류 폐기물로 만들지 않기 위해, 스마트 옷장에 사진을 등록하면 어떤 종류의 의류인지 분류하고 원하는 스타일에 맞게 코디를 추천해주는 웹 서비스입니다.
+<br/>
+
 ## Team
 <table>
   <tbody>
@@ -17,13 +15,11 @@
     </tr>
   </tbody>
 </table>
+<br/>
 
-
-# Use Tech
+## Use Tech
 ### Web
-<!-- <div align=center>  -->
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<!-- </div> -->
 
 ### Model
 <!-- <div align=center> -->

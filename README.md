@@ -1,4 +1,4 @@
-## 오늘모입지?
+# 👔오늘모입지?
 > Encore Dataengineering 28기 부트캠프 final project
 > 
 ## 전체 프로젝트 일정

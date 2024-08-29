@@ -16,29 +16,6 @@
   </tbody>
 </table>
 <br/>
-
-## Use Tech
-### Web
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-### Model
-<!-- <div align=center> -->
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"> <img src="https://img.shields.io/badge/aws rekognition-569A31?style=for-the-badge&logo=&logoColor=black">
-<!-- </div> -->
-
-### Data
-<!-- <div align=center> -->
-<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black"> <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=black"> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=black"> <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=black">
-<!-- </div> -->
-
-### ETC
-<!-- <div align=center> -->
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/apigateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=black"> <img src="https://img.shields.io/badge/lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=black"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> <!-- </div> -->
-
-### Communication
-<!-- <div align=center> -->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<!-- </div> -->
 <br/>
 
 ## 1. 프로젝트 개요
@@ -51,27 +28,62 @@
 > 이러한 문제점을 해결할 필요성을 느껴 옷장 및 옷 코디 추천 페이지(오늘모입지)를 고안하게 되었습니다. 본 프로젝트는 사용자의 선호도, 외출목적, 날씨를 고려한 맞춤형 코디 추천과 스마트 옷장 관리를 위한 웹사이트 제작을 목표로 하고 있습니다.
 <br/>
 
-## [요구분석 명세서](https://docs.google.com/document/d/1GnTlrJgWTk3o4aaLqI1ZXnLC5DrBan0ntmjrJnWubdo/edit)
-## [WBS](https://docs.google.com/spreadsheets/d/1FakvPad7NTO7V1t1Nr_8PB-BNMYLDHi1/edit#gid=1543558811)
-## 데이터 파이프라인
-![파이프라인](/img/데이터파이프라인.png)
-## 전체적인 아키텍처
+## 2. 기획 및 개발 일정 (WBS)
+> 기획 및 설계, 백엔드, 모델, 엔지니어, 분석 6가지 카테고리로 Task를 구분짓고 일정을 할당하였습니다.
+>
+[요구분석 명세서](https://docs.google.com/document/d/1GnTlrJgWTk3o4aaLqI1ZXnLC5DrBan0ntmjrJnWubdo/edit)
+
+[WBS](https://docs.google.com/spreadsheets/d/1FakvPad7NTO7V1t1Nr_8PB-BNMYLDHi1/edit#gid=1543558811)
+<br/>
+<br/>
+<br/>
+
+## 3. 개발
+### 기술스택
+**Web**<br>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+**Model**<br>
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
+<img src="https://img.shields.io/badge/aws rekognition-569A31?style=for-the-badge&logo=&logoColor=black">
+
+**Data**<br>
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
+<img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=black">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=black">
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=black">
+
+**ETC**<br>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
+<img src="https://img.shields.io/badge/apigateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=black">
+<img src="https://img.shields.io/badge/lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black">
+<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=black">
+<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
+
+**Communication**<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<br/>
+<br/>
+<br/>
+
+
+
+### 시스템 아키텍처
 ![아키텍처](/img/아키텍처.png)
-### [이슈링크 (1)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/4)
-### [이슈링크 (2)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/5)
-## 데이터 모니터링
-![모니터링](/img/모니터링.png)
-### [이슈링크 (1)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/12)
-## Lambda와 AWS APIGateway로 모델 서빙
-![아키텍처](/img/webserving01.png)
-### [이슈링크 (1)](https://github.com/jiminchur/Recommend-Model_Closet-Cody/issues/18)
-* Lambda test (성공)
-![lambda](/img/ppt_lambda-test.gif)
-* /predict test (성공)
-![lambda](/img/ppt_-_predict-test%20(1).gif)
-* endpoint url test (성공)
-![lambda](/img/ppt_endpoint-url-test.gif)
+<br/>
+<br/>
+<br/>
 
+### 데이터 파이프라인
+> 무신사 웹사이트에서 필요한 데이터를 JSON 파일로 추출한 후, Apache Airflow를 통해 전처리와 표준화를 거쳐 데이터베이스에 저장하는 과정을 자동화했습니다.
 
+![파이프라인](/img/데이터파이프라인.png)
 
 

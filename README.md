@@ -91,6 +91,9 @@
 <br/>
 <br/>
 
+### Lambda와 AWS APIGateway로 모델 서빙
+![아키텍처](/img/webserving01.png)
+
 ## 4. 발표자료
 ![image](https://github.com/user-attachments/assets/3718fcda-5eae-46e7-9daa-1919f56e0a3a)
 [오늘모입지_발표자료.pdf](https://github.com/user-attachments/files/16828950/default.pdf)
